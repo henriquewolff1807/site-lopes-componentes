@@ -62,7 +62,7 @@ This project is a complete product catalog website for **Lopes Componentes Pneum
 Developed by **Henrique Wolff**
 Software Engineering student | Junior Full Stack Developer in training
 
-![LinkedIn](https://www.linkedin.com/in/henrique-wolff-63620930a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique%20Wolff-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/henrique-wolff-63620930a/)
 
 ---
 
@@ -132,4 +132,4 @@ Este projeto é um site completo de catálogo de produtos para a **Lopes Compone
 Desenvolvido por **Henrique Wolff**
 Estudante de Engenharia de Software | Desenvolvedor Full Stack Junior em formação
 
-![LinkedIn](https://www.linkedin.com/in/henrique-wolff-63620930a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique%20Wolff-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/henrique-wolff-63620930a/)
