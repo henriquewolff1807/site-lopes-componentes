@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta name="description" content="Catálogo de válvulas solenoide pneumáticas 2/2, 3/2, 5/2 e 5/3 vias. Diversos modelos, roscas e voltagens para automação industrial.">
+
+  <title>
+    Válvulas Solenoide Pneumáticas | Lopes Componentes Pneumáticos
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="../../style.css">
+  
+  <!-- LUCIDE -->
+  <script src="https://cdn.jsdelivr.net/npm/lucide@0.263.0/dist/umd/lucide.min.js"></script>
+
+  <!-- FONTES -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap"  rel="stylesheet">
+
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+
+</head>
+
+<body>
+
+  <!-- HEADER -->
+  <header class="header">
+
+    <div class="container header-content">
+
+      <!-- LOGO -->
+      <div class="logo-area">
+
+        <img
+          src="../../imagens/simbolo.png"
+          alt="Símbolo Lopes"
+          class="logo-symbol">
+
+        <span class="logo-text">
+          Lopes Componentes Pneumáticos
+        </span>
+
+      </div>
+
+      <!-- MENU -->
+      <nav class="nav-menu">
+
+        <a href="../../index.html" class="nav-link">
+          Home
+        </a>
+
+        <a href="../../index.html#produtos" class="nav-link">
+          Categorias
+        </a>
+
+        <a href="../../index.html#contato" class="nav-link">
+          Contato
+        </a>
+
+        <!-- BOTÃO CARRINHO -->
+<button id="cart-button" class="cart-button">
+
+  <i data-lucide="shopping-cart"></i>
+
+  <span class="cart-count">
+    0
+  </span>
+
+</button> 
+
+      </nav>
+
+    </div>
+
+  </header>
+
+  <section class="category-hero">
+
+    <div class="container">
+
+    <div class="category-header"> 
+
+      <a
+        href="../../index.html#produtos"
+        class="back-button">
+
+        ← Categorias
+
+      </a>
+
+      <div>
+
+        <h1 class="category-title">
+          Válvulas Solenoide Pneumáticas
+        </h1>
+
+        <p class="subtitle">
+          Encontre válvulas solenoide pneumáticas 2/2, 3/2, 5/2 e 5/3 vias para sistemas de automação industrial.
+        </p>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+   <!-- CATEGORIA 01  -->
+
+  <!-- PRODUTOS -->
+  <section class="products-section">
+
+  <div class="container"> 
+
+    <div id="valvulas-52" class="products-grid"></div>
+
+  </div>
+
+</section>
+
+<!-- BOBINAS -->
+<section class="products-section">
+
+    <div class="container">
+
+        <div class="section-title">
+            <h2>Bobinas</h2>
+            <p>Confira os modelos disponíveis</p>
+        </div>
+
+        <div id="bobinas-grid" class="products-grid"></div>
+
+    </div>
+
+</section>
+
+<script>
+  lucide.createIcons();
+</script>
+
+
+<div id="cart-sidebar" class="cart-sidebar">
+
+       <div class="cart-header">
+
+    <h2 class="my-cart">
+        Meu Carrinho
+    </h2>
+
+
+    <p class="cart-summary">
+        <span class="cart-total-items">
+            0
+        </span>
+        itens selecionados
+    </p>
+
+</div>
+
+<ul id="carrinho-lista">
+    <li id="carrinho-vazio">
+        Seu carrinho está vazio
+    </li>
+</ul>
+
+<button class="clear-cart">
+    Limpar carrinho
+</button>
+
+<button class="finish-budget">
+    Finalizar orçamento
+</button>
+  
+</div>
+<!-- ZOOM IMAGEM -->
+
+<div class="image-modal">
+
+    <span class="close-modal">×</span>
+
+    <button class="modal-prev">←</button>
+
+    <img class="modal-image">
+
+    <button class="modal-next">→</button>
+
+</div>
+
+
+<script src="../../js/carrinho.js"></script>
+
+<script src="valvulas-solenoide.js"></script>
+
+</body>
+
+<footer class="footer">
+
+  <p>
+    © 2026 Lopes Componentes Pneumáticos
+  </p>
+
+  <a href="https://www.linkedin.com/in/henrique-wolff-63620930a/"
+     target="_blank"
+     class="developer-credit">
+
+     Desenvolvido por Henrique Wolff
+
+  </a>
+
+</footer>
+
+</html>
