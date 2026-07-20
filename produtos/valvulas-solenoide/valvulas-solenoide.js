@@ -2,361 +2,361 @@
 
 const produtos = [
 
-{
-    nome: "Válvula 5/2 vias Solenóide/Mola",
+    {
+        nome: "Válvula 5/2 vias Solenóide/Mola",
 
-    imagens:[
-         "../../imagens/valvulas-solenoide/valvula-52.WebP",
-         "../../imagens/valvulas-solenoide/valvula-52 (1).WebP"
-    ],
+        imagens: [
+            "../../imagens/valvulas-solenoide/valvula-52.WebP",
+            "../../imagens/valvulas-solenoide/valvula-52 (1).WebP"
+        ],
 
-    descricao: "Ideal para acionamento de cilindros pneumáticos de dupla ação com excelente desempenho e confiabilidade.",
+        descricao: "Ideal para acionamento de cilindros pneumáticos de dupla ação com excelente desempenho e confiabilidade.",
 
-    roscas:[
-        '1/8', 
-        '1/4',
-        '3/8',
-        '1/2'      
-    ],
+        roscas: [
+            '1/8',
+            '1/4',
+            '3/8',
+            '1/2'
+        ],
 
-    voltagens:[
-        "12VCC",
-        "24VCC",
-        "24VCA (CORRENTE ALTERNADA)",
-        "110VCA",
-        "220VCA"
-    ]
+        voltagens: [
+            "12VCC",
+            "24VCC",
+            "24VCA (CORRENTE ALTERNADA)",
+            "110VCA",
+            "220VCA"
+        ]
 
-},
+    },
 
 
-{
-    nome: "Válvula 5/2 vias Solenóide/Mola Sem Lubrificação",
+    {
+        nome: "Válvula 5/2 vias Solenóide/Mola Sem Lubrificação",
 
-    imagens:[
-         "../../imagens/valvulas-solenoide/valvula-belton-vx.WebP",
-         "../../imagens/valvulas-solenoide/valvula-belton-vx(1).WebP"
-    ],
+        imagens: [
+            "../../imagens/valvulas-solenoide/valvula-belton-vx.WebP",
+            "../../imagens/valvulas-solenoide/valvula-belton-vx(1).WebP"
+        ],
 
-    descricao: "Modelo nacional de alta durabilidade, desenvolvida para operar sem necessidade de lubrificação, mas com ar seco. ",
+        descricao: "Modelo nacional de alta durabilidade, desenvolvida para operar sem necessidade de lubrificação, mas com ar seco. ",
 
-    roscas:[
-        '1/8', 
-        '1/4',      
-    ],
+        roscas: [
+            '1/8',
+            '1/4',
+        ],
 
-    voltagens:[
-        "12VCC",
-        "24VCC",
-        "24VCA (CORRENTE ALTERNADA)",
-        "110VCA",
-        "220VCA"
-    ]
+        voltagens: [
+            "12VCC",
+            "24VCC",
+            "24VCA (CORRENTE ALTERNADA)",
+            "110VCA",
+            "220VCA"
+        ]
 
-},
+    },
 
 
 
-{
-    nome: "Válvula 5/2 vias Solenóide/Mola",
+    {
+        nome: "Válvula 5/2 vias Solenóide/Mola",
 
-    imagens:[
-         "../../imagens/valvulas-solenoide/valvula-belton-vn.WebP",
-         "../../imagens/valvulas-solenoide/valvula-belton-vn(1).WebP"
-    ],
+        imagens: [
+            "../../imagens/valvulas-solenoide/valvula-belton-vn.WebP",
+            "../../imagens/valvulas-solenoide/valvula-belton-vn(1).WebP"
+        ],
 
-    descricao: "Válvula nacional robusta para aplicações industriais que exigem desempenho e confiabilidade contínuos.",
+        descricao: "Válvula nacional robusta para aplicações industriais que exigem desempenho e confiabilidade contínuos.",
 
-    roscas:[
-        '1/8', 
-        '1/4',
-        '3/8'      
-    ],
+        roscas: [
+            '1/8',
+            '1/4',
+            '3/8'
+        ],
 
-    voltagens:[
-        "12VCC",
-        "24VCC",
-        "24VCA (CORRENTE ALTERNADA)",
-        "110VCA",
-        "220VCA"
-    ]
+        voltagens: [
+            "12VCC",
+            "24VCC",
+            "24VCA (CORRENTE ALTERNADA)",
+            "110VCA",
+            "220VCA"
+        ]
 
-},
+    },
 
 
 
 
-{
-    nome: "Válvula 5/2 vias Solenóide/Mola -NAMUR-",
+    {
+        nome: "Válvula 5/2 vias Solenóide/Mola -NAMUR-",
 
-    imagens:[
-         "../../imagens/valvulas-solenoide/valvula-52-namur.WebP",
-         "../../imagens/valvulas-solenoide/valvula-52-namur(1).WebP",
-         "../../imagens/valvulas-solenoide/valvula-52-namur(2).WebP"
-    ],
+        imagens: [
+            "../../imagens/valvulas-solenoide/valvula-52-namur.WebP",
+            "../../imagens/valvulas-solenoide/valvula-52-namur(1).WebP",
+            "../../imagens/valvulas-solenoide/valvula-52-namur(2).WebP"
+        ],
 
-    descricao: "Indicada para montagem direta em atuadores pneumáticos padrão NAMUR, oferecendo instalação rápida e compacta.",
+        descricao: "Indicada para montagem direta em atuadores pneumáticos padrão NAMUR, oferecendo instalação rápida e compacta.",
 
-    roscas:[
-        '1/4',
-    ],
+        roscas: [
+            '1/4',
+        ],
 
-    voltagens:[
-        "12VCC",
-        "24VCC",
-        "24VCA (CORRENTE ALTERNADA)",
-        "110VCA",
-        "220VCA"
-    ]
+        voltagens: [
+            "12VCC",
+            "24VCC",
+            "24VCA (CORRENTE ALTERNADA)",
+            "110VCA",
+            "220VCA"
+        ]
 
-},
+    },
 
 
-{
-    nome: "Válvula 5/2 vias Duplo Solenóide",
+    {
+        nome: "Válvula 5/2 vias Duplo Solenóide",
 
-    imagens:[
-         "../../imagens/valvulas-solenoide/valvula-52-DS.WebP",
-         "../../imagens/valvulas-solenoide/valvula-52-DS (1).WebP"
-    ],
+        imagens: [
+            "../../imagens/valvulas-solenoide/valvula-52-DS.WebP",
+            "../../imagens/valvulas-solenoide/valvula-52-DS (1).WebP"
+        ],
 
-    descricao: "Permite controle preciso de cilindros pneumáticos utilizando dois acionamentos elétricos independentes.",
+        descricao: "Permite controle preciso de cilindros pneumáticos utilizando dois acionamentos elétricos independentes.",
 
-    roscas:[
-        '1/8', 
-        '1/4',
-        '3/8',
-        '1/2'      
-    ],
+        roscas: [
+            '1/8',
+            '1/4',
+            '3/8',
+            '1/2'
+        ],
 
-    voltagens:[
-        "12VCC",
-        "24VCC",
-        "24VCA (CORRENTE ALTERNADA)",
-        "110VCA",
-        "220VCA"
-    ]
+        voltagens: [
+            "12VCC",
+            "24VCC",
+            "24VCA (CORRENTE ALTERNADA)",
+            "110VCA",
+            "220VCA"
+        ]
 
-},
+    },
 
 
-{
-    nome: "Válvula 5/2 vias Solenóide/Mola Modelo SY",
+    {
+        nome: "Válvula 5/2 vias Solenóide/Mola Modelo SY",
 
-    imagens:[
-         "../../imagens/valvulas-solenoide/valvula-sy.WebP",
-         "../../imagens/valvulas-solenoide/valvula-sy(1).WebP",
-         "../../imagens/valvulas-solenoide/valvula-sy(2).WebP",
-    ],
+        imagens: [
+            "../../imagens/valvulas-solenoide/valvula-sy.WebP",
+            "../../imagens/valvulas-solenoide/valvula-sy(1).WebP",
+            "../../imagens/valvulas-solenoide/valvula-sy(2).WebP",
+        ],
 
-    descricao: "Modelo compacto com excelente desempenho para sistemas pneumáticos com espaço reduzido. Modelo SY.",
+        descricao: "Modelo compacto com excelente desempenho para sistemas pneumáticos com espaço reduzido. Modelo SY.",
 
-    roscas:[
-        'M5',
-        '1/8', 
-        '1/4',      
-    ],
+        roscas: [
+            'M5',
+            '1/8',
+            '1/4',
+        ],
 
-    voltagens:[
-        "24VCC",
-        "220VCA",
-    ]
+        voltagens: [
+            "24VCC",
+            "220VCA",
+        ]
 
-},
+    },
 
 
-{
-    nome: "Válvula 3/2 vias Solenóide/Mola",
+    {
+        nome: "Válvula 3/2 vias Solenóide/Mola",
 
-    imagens:[
-         "../../imagens/valvulas-solenoide/valvula-32.WebP",
-         "../../imagens/valvulas-solenoide/valvula-32 (1).WebP"
-    ],
+        imagens: [
+            "../../imagens/valvulas-solenoide/valvula-32.WebP",
+            "../../imagens/valvulas-solenoide/valvula-32 (1).WebP"
+        ],
 
-    descricao: "Válvula normal fechada ideal para controle de cilindros simples ação e diversos comandos pneumáticos industriais.",
+        descricao: "Válvula normal fechada ideal para controle de cilindros simples ação e diversos comandos pneumáticos industriais.",
 
-    roscas:[
-        '1/8', 
-        '1/4',
-        '3/8',
-        '1/2'
-    ],
+        roscas: [
+            '1/8',
+            '1/4',
+            '3/8',
+            '1/2'
+        ],
 
-    voltagens:[
-        "12VCC",
-        "24VCC",
-        "24VCA (CORRENTE ALTERNADA)",
-        "110VCA",
-        "220VCA"
-    ]
+        voltagens: [
+            "12VCC",
+            "24VCC",
+            "24VCA (CORRENTE ALTERNADA)",
+            "110VCA",
+            "220VCA"
+        ]
 
-},
+    },
 
-{
-    nome: "Válvula 3/2 vias Solenóide/Mola Compacta",
+    {
+        nome: "Válvula 3/2 vias Solenóide/Mola Compacta",
 
-    imagens:[
+        imagens: [
 
-         "../../imagens/valvulas-solenoide/valula-32-compacta.WebP",
-         "../../imagens/valvulas-solenoide/valula-32-compacta(1).WebP",
-         "../../imagens/valvulas-solenoide/valula-32-compacta(2).WebP",
-         "../../imagens/valvulas-solenoide/valula-32-compacta(3).WebP"
+            "../../imagens/valvulas-solenoide/valula-32-compacta.WebP",
+            "../../imagens/valvulas-solenoide/valula-32-compacta(1).WebP",
+            "../../imagens/valvulas-solenoide/valula-32-compacta(2).WebP",
+            "../../imagens/valvulas-solenoide/valula-32-compacta(3).WebP"
 
-    ],
+        ],
 
-    descricao: "Modelo compacto para aplicações com pouco espaço, mantendo eficiência e confiabilidade operacional.",
+        descricao: "Modelo compacto para aplicações com pouco espaço, mantendo eficiência e confiabilidade operacional.",
 
-    roscas:[
-        '1/8', 
-    ],
+        roscas: [
+            '1/8',
+        ],
 
-    voltagens:[
-        "12VCC",
-        "24VCC",
-        "24VCA (CORRENTE ALTERNADA)",
-        "110VCA",
-        "220VCA"
-    ]
+        voltagens: [
+            "12VCC",
+            "24VCC",
+            "24VCA (CORRENTE ALTERNADA)",
+            "110VCA",
+            "220VCA"
+        ]
 
-},
+    },
 
-{
-    nome: "Válvula 5/3 vias Duplo Solenóide Centro Fechado",
+    {
+        nome: "Válvula 5/3 vias Duplo Solenóide Centro Fechado",
 
-    imagens:[
-         "../../imagens/valvulas-solenoide/valvula-53.WebP",
-         "../../imagens/valvulas-solenoide/valvula-53(1).WebP"
+        imagens: [
+            "../../imagens/valvulas-solenoide/valvula-53.WebP",
+            "../../imagens/valvulas-solenoide/valvula-53(1).WebP"
 
-    ],
+        ],
 
-    descricao: "Acionamento 5/3 vias com centro fechado para bloqueio das vias, proporcionando maior controle e segurança do sistema.",
+        descricao: "Acionamento 5/3 vias com centro fechado para bloqueio das vias, proporcionando maior controle e segurança do sistema.",
 
-    roscas:[
-        '1/8', 
-        '1/4',
-        '3/8',
-        '1/2'
-        
-    ],
+        roscas: [
+            '1/8',
+            '1/4',
+            '3/8',
+            '1/2'
 
-    voltagens:[
-        "12VCC",
-        "24VCC",
-        "24VCA (CORRENTE ALTERNADA)",
-        "110VCA",
-        "220VCA"
-    ]
+        ],
 
-},
+        voltagens: [
+            "12VCC",
+            "24VCC",
+            "24VCA (CORRENTE ALTERNADA)",
+            "110VCA",
+            "220VCA"
+        ]
 
+    },
 
-{
-    nome: "Válvula 2/2 vias Solenóide/Mola Escape na Torre",
 
-    imagens:[
-         "../../imagens/valvulas-solenoide/valvula-22-Escape-torre.WebP",
-         "../../imagens/valvulas-solenoide/valvula-22-Escape-torre (1).WebP"
+    {
+        nome: "Válvula 2/2 vias Solenóide/Mola Escape na Torre",
 
-    ],
+        imagens: [
+            "../../imagens/valvulas-solenoide/valvula-22-Escape-torre.WebP",
+            "../../imagens/valvulas-solenoide/valvula-22-Escape-torre (1).WebP"
 
-    descricao: "Indicada para aplicações que exigem exaustão eficiente e resposta rápida do sistema pneumático.",
+        ],
 
-    roscas:[
-        '1/4',
-    ],
+        descricao: "Indicada para aplicações que exigem exaustão eficiente e resposta rápida do sistema pneumático.",
 
-    voltagens:[
-        "12VCC",
-        "24VCC",
-        "24VCA (CORRENTE ALTERNADA)",
-        "110VCA",
-        "220VCA"
-    ]
+        roscas: [
+            '1/4',
+        ],
 
-},
+        voltagens: [
+            "12VCC",
+            "24VCC",
+            "24VCA (CORRENTE ALTERNADA)",
+            "110VCA",
+            "220VCA"
+        ]
 
+    },
 
-{
-    nome: "Válvula 2/2 vias Solenóide/Mola",
 
-    imagens:[
-         "../../imagens/valvulas-solenoide/valvula-22.WebP",
-         "../../imagens/valvulas-solenoide/valvula-22 (1).WebP"
-    ],
+    {
+        nome: "Válvula 2/2 vias Solenóide/Mola",
 
-    descricao: "Controla a passagem de ar comprimido com acionamento elétrico simples e confiável.",
+        imagens: [
+            "../../imagens/valvulas-solenoide/valvula-22.WebP",
+            "../../imagens/valvulas-solenoide/valvula-22 (1).WebP"
+        ],
 
-    roscas:[
-        '1/4',
-    ],
+        descricao: "Controla a passagem de ar comprimido com acionamento elétrico simples e confiável.",
 
-    voltagens:[
-        "12VCC",
-        "24VCC",
-        "24VCA (CORRENTE ALTERNADA)",
-        "110VCA",
-        "220VCA"
-    ]
+        roscas: [
+            '1/4',
+        ],
 
-},
+        voltagens: [
+            "12VCC",
+            "24VCC",
+            "24VCA (CORRENTE ALTERNADA)",
+            "110VCA",
+            "220VCA"
+        ]
 
+    },
 
 
-{
-    nome: "Válvula 2/2 vias Solenóide/Mola Diafragma (Normal Fechada)",
 
-    imagens:[
-         "../../imagens/valvulas-solenoide/valvula-diafragma.WebP",
-         "../../imagens/valvulas-solenoide/valvula-diafragma (1).WebP",
-         "../../imagens/valvulas-solenoide/valvula-diafragma (2).WebP",
-    ],
+    {
+        nome: "Válvula 2/2 vias Solenóide/Mola Diafragma (Normal Fechada)",
 
-    descricao: "Indicada para controle de água, ar e fluidos compatíveis com vedação por diafragma.",
+        imagens: [
+            "../../imagens/valvulas-solenoide/valvula-diafragma.WebP",
+            "../../imagens/valvulas-solenoide/valvula-diafragma (1).WebP",
+            "../../imagens/valvulas-solenoide/valvula-diafragma (2).WebP",
+        ],
 
-    roscas:[
-        '1/4',
-        '3/8',
-        '1/2',
-        '3/4',
-        '1',
-        '1-1/4',
-        '1-1/2',
-        '2',
-    ],
+        descricao: "Indicada para controle de água, ar e fluidos compatíveis com vedação por diafragma.",
 
-    voltagens:[
-        "12VCC",
-        "24VCC",
-        "110VCA",
-        "220VCA"
-    ]
+        roscas: [
+            '1/4',
+            '3/8',
+            '1/2',
+            '3/4',
+            '1',
+            '1-1/4',
+            '1-1/2',
+            '2',
+        ],
 
-},
+        voltagens: [
+            "12VCC",
+            "24VCC",
+            "110VCA",
+            "220VCA"
+        ]
 
+    },
 
 
-{
-    nome: "Válvula 2/2 vias Solenóide/Mola PURGADORA 16 BAR (Normal Fechada)",
 
-    imagens:[
-         "../../imagens/valvulas-solenoide/valvula-22-purgadora.WebP",
-         "../../imagens/valvulas-solenoide/valvula-22-purgadora(1).WebP",
-         "../../imagens/valvulas-solenoide/valvula-22-purgadora(2).WebP",
-    ],
+    {
+        nome: "Válvula 2/2 vias Solenóide/Mola PURGADORA 16 BAR (Normal Fechada)",
 
-    descricao: "Projetada para sistemas de purga automática, suportando pressões de até 16 BAR.",
+        imagens: [
+            "../../imagens/valvulas-solenoide/valvula-22-purgadora.WebP",
+            "../../imagens/valvulas-solenoide/valvula-22-purgadora(1).WebP",
+            "../../imagens/valvulas-solenoide/valvula-22-purgadora(2).WebP",
+        ],
 
-    roscas:[
-        '1/4',
-        '1/2'
-    ],
+        descricao: "Projetada para sistemas de purga automática, suportando pressões de até 16 BAR.",
 
-    voltagens:[
-        "24VCC",
-        "220VCA",
-    ]
+        roscas: [
+            '1/4',
+            '1/2'
+        ],
 
-},
+        voltagens: [
+            "24VCC",
+            "220VCA",
+        ]
+
+    },
 
 
 ];
@@ -400,7 +400,7 @@ produtos.forEach((produto, index) => {
 
         <div class="image-dots">
 
-            ${produto.imagens.map((img, i)=>`
+            ${produto.imagens.map((img, i) => `
 
                 <span 
                 class="dot ${i === 0 ? "active" : ""}"
@@ -588,20 +588,20 @@ document.querySelectorAll(".product-card").forEach(card => {
 
 
 
-    function atualizarImagem(){
+    function atualizarImagem() {
 
 
         imagem.src = produto.imagens[imagemAtual];
 
 
 
-        bolinhas.forEach((dot, index)=>{
+        bolinhas.forEach((dot, index) => {
 
 
             dot.classList.remove("active");
 
 
-            if(index === imagemAtual){
+            if (index === imagemAtual) {
 
                 dot.classList.add("active");
 
@@ -616,7 +616,7 @@ document.querySelectorAll(".product-card").forEach(card => {
 
 
 
-    botaoProximo.addEventListener("click", (event)=>{
+    botaoProximo.addEventListener("click", (event) => {
 
 
         event.stopPropagation();
@@ -626,7 +626,7 @@ document.querySelectorAll(".product-card").forEach(card => {
 
 
 
-        if(imagemAtual >= produto.imagens.length){
+        if (imagemAtual >= produto.imagens.length) {
 
             imagemAtual = 0;
 
@@ -642,7 +642,7 @@ document.querySelectorAll(".product-card").forEach(card => {
 
 
 
-    botaoAnterior.addEventListener("click", (event)=>{
+    botaoAnterior.addEventListener("click", (event) => {
 
 
         event.stopPropagation();
@@ -652,7 +652,7 @@ document.querySelectorAll(".product-card").forEach(card => {
 
 
 
-        if(imagemAtual < 0){
+        if (imagemAtual < 0) {
 
             imagemAtual = produto.imagens.length - 1;
 
@@ -667,10 +667,10 @@ document.querySelectorAll(".product-card").forEach(card => {
 
 
 
-    bolinhas.forEach((dot,index)=>{
+    bolinhas.forEach((dot, index) => {
 
 
-        dot.addEventListener("click",(event)=>{
+        dot.addEventListener("click", (event) => {
 
 
             event.stopPropagation();
@@ -703,32 +703,32 @@ document.querySelectorAll(".product-card").forEach(card => {
     const radioNao = card.querySelector('input[value="nao"]');
 
 
-    const bobinaOptions = 
-    card.querySelector(".bobina-options");
+    const bobinaOptions =
+        card.querySelector(".bobina-options");
 
 
     const voltagemContainer =
-    card.querySelector(".voltagem-container");
+        card.querySelector(".voltagem-container");
 
 
     const seletorVoltagem =
-    card.querySelector(".voltagem-container select");
+        card.querySelector(".voltagem-container select");
 
 
     const seletorRosca =
-    card.querySelector(".thread-select");
+        card.querySelector(".thread-select");
 
     seletorRosca.addEventListener("change", () => {
 
-    removerErro(seletorRosca);
+        removerErro(seletorRosca);
 
-    const button = card.querySelector(".add-cart-button");
+        const button = card.querySelector(".add-cart-button");
 
-    button.classList.remove("button-error");
+        button.classList.remove("button-error");
 
-});
+    });
 
-    
+
 
 
     radioSim.addEventListener("change", () => {
@@ -766,7 +766,7 @@ function tremerBotao(button) {
 
         button.classList.remove("button-error");
 
-    },300);
+    }, 300);
 
 }
 
@@ -829,7 +829,7 @@ document.addEventListener("click", (event) => {
         // Resetar
         seletorVoltagem.value = "";
 
-    // ======= VÁLVULA =======
+        // ======= VÁLVULA =======
     } else {
 
         const produto = produtos[index];
