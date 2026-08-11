@@ -380,6 +380,13 @@ body {
     text-align: center;
 }
 
+.title-mecanicas {
+    font-size: 42px;
+    margin-top: 30px;
+    text-align:center;
+}
+
+
 .section-title h2 {
     font-size: 42px;
 }
@@ -407,7 +414,7 @@ body {
 
     line-height:1.1;
 
-    margin-bottom:20px;
+    margin-bottom:5px;
 
     height:45px;
 
@@ -419,7 +426,7 @@ body {
 
 .product-description {
 
-    margin-top:5px;
+    margin-top:0px;
 
     margin-bottom: 20px;
 

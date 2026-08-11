@@ -2,13 +2,13 @@ lucide.createIcons();
 
 const produtos = [
 
- {
-  nome: "Válvulas Solenóide e Bobinas",
-  imagem: "imagens/valvulas-solenoide/valvula-52.WebP",
-  alt: "Válvula solenóide pneumática industrial",
-  descricao: "Controle preciso do fluxo de ar por acionamento elétrico, ideal para automação industrial e sistemas pneumáticos",
-  link: "produtos/valvulas-solenoide/valvulas-solenoide.html"
-},
+  {
+    nome: "Válvulas Solenóide e Bobinas",
+    imagem: "imagens/valvulas-solenoide/valvula-52.WebP",
+    alt: "Válvula solenóide pneumática industrial",
+    descricao: "Controle preciso do fluxo de ar por acionamento elétrico, ideal para automação industrial e sistemas pneumáticos",
+    link: "produtos/valvulas-solenoide/valvulas-solenoide.html"
+  },
 
   {
     nome: "Válvulas Pilotadas",
@@ -16,14 +16,14 @@ const produtos = [
     alt: "Válvula pilotada pneumática industrial",
     descricao: "Indicadas para sistemas lógicos que exigem acionamento da válvula através de sinal pneumático.",
     link: "produtos/valvulas-pilotadas/valvulas-pilotadas.html"
-},
+  },
 
   {
     nome: "Válvulas Mecânicas",
-    imagem: "imagens/mecanicas/mecanica.jpeg",
+    imagem: "imagens/mecanicas/pedal-mola-52-vias-4f(2).WebP",
     alt: "Válvula mecânica pneumática industrial",
     descricao: "Acionamento manual ou mecânico para controle seguro e prático do fluxo de ar comprimido.",
-    link:"produtos/valvulas mecanicas/valvulas-mecanicas.html" 
+    link: "produtos/valvulas mecanicas/valvulas-mecanicas.html"
   },
 
   {
@@ -42,7 +42,7 @@ const produtos = [
     link: "produtos/cilindro-mini/cilindro-mini-iso.html"
   },
 
-{
+  {
     nome: "Acessórios para Cilindros",
     imagem: "imagens/acessorios/acessorios.jpeg",
     alt: "Acessórios para Cilindros pneumáticos industrial",
@@ -74,7 +74,7 @@ const produtos = [
     link: "produtos/latao/latao.html"
   },
 
-   {
+  {
     nome: "Tubos em Poliuretano (PU)",
     imagem: "imagens/tubos/tubos.jpeg",
     alt: "Tubos pneumáticos em poliuretano PU",
@@ -193,7 +193,7 @@ document.getElementById('contact-form').addEventListener('submit', function (e) 
   if (name && phone && message) {
 
     const text =
-`Nome: ${name}
+      `Nome: ${name}
 Telefone: ${phone}
 Mensagem: ${message}`;
 

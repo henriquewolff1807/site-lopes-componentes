@@ -2,130 +2,109 @@
 <html lang="pt-BR">
 
 <head>
-
   <meta charset="UTF-8">
-
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <meta name="description" content="Catálogo de válvulas solenoide pneumáticas 2/2, 3/2, 5/2 e 5/3 vias. Diversos modelos, roscas e voltagens para automação industrial.">
-
-  <title>
-    Válvulas Solenoide Pneumáticas | Lopes Componentes Pneumáticos
-  </title>
-
-  <!-- CSS -->
+  <title>Válvulas Mecânicas | Lopes Componentes Pneumáticos</title>
   <link rel="stylesheet" href="../../style.css">
-  
-  <!-- LUCIDE -->
   <script src="https://cdn.jsdelivr.net/npm/lucide@0.263.0/dist/umd/lucide.min.js"></script>
-
-  <!-- FONTES -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
-
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap"  rel="stylesheet">
-
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-
-
 </head>
 
 <body>
 
-  <!-- HEADER -->
   <header class="header">
-
     <div class="container header-content">
-
-      <!-- LOGO -->
       <div class="logo-area">
-
-        <img
-          src="../../imagens/simbolo.png"
-          alt="Símbolo Lopes"
-          class="logo-symbol">
-
-        <span class="logo-text">
-          Lopes Componentes Pneumáticos
-        </span>
-
+        <img src="../../imagens/simbolo.png" alt="Símbolo Lopes" class="logo-symbol">
+        <span class="logo-text">Lopes Componentes Pneumáticos</span>
       </div>
-
-      <!-- MENU -->
       <nav class="nav-menu">
-
-        <a href="../../index.html" class="nav-link">
-          Home
-        </a>
-
-        <a href="../../index.html#produtos" class="nav-link">
-          Categorias
-        </a>
-
-        <a href="../../index.html#contato" class="nav-link">
-          Contato
-        </a>
-
-        <!-- BOTÃO CARRINHO -->
-<button id="cart-button" class="cart-button">
-
-  <i data-lucide="shopping-cart"></i>
-
-  <span class="cart-count">
-    0
-  </span>
-
-</button> 
-
+        <a href="../../index.html" class="nav-link">Home</a>
+        <a href="../../index.html#produtos" class="nav-link">Categorias</a>
+        <a href="../../index.html#contato" class="nav-link">Contato</a>
+        <button class="cart-button">
+          <i data-lucide="shopping-cart"></i>
+          <span class="cart-count">0</span>
+        </button>
       </nav>
-
     </div>
-
   </header>
 
   <section class="category-hero">
+    <div class="container">
+      <div class="category-header">
+        <a href="../../index.html#produtos" class="back-button">← Categorias</a>
+        <div>
+          <h1 class="category-title">Válvulas Mecânicas</h1>
+          <p class="subtitle">Confira os modelos disponíveis</p>
+        </div>
+      </div>
+    </div>
+  </section>
 
+  <section class="products-section">
     <div class="container">
 
-    <div class="category-header"> 
+      <h2 class="title-mecanicas">Pedais</h2>
+      <div id="valvulas-pedais" class="products-grid"></div>
 
-      <a
-        href="../../index.html#produtos"
-        class="back-button">
+      <h2 class="title-mecanicas">Alavancas</h2>
+      <div id="valvulas-alavancas" class="products-grid"></div>
 
-        ← Categorias
+      <h2 class="title-mecanicas">Botão</h2>
+      <div id="valvulas-botao" class="products-grid"></div>
 
-      </a>
+      <h2 class="title-mecanicas">Pino</h2>
+      <div id="valvulas-pino" class="products-grid"></div>
 
-      <div>
+      <h2 class="title-mecanicas">Rolete</h2>
+      <div id="valvulas-rolete" class="products-grid"></div>
 
-        <h1 class="category-title">
-          Válvulas Solenoide Pneumáticas
-        </h1>
+      <h2 class="title-mecanicas">Gatilho</h2>
+      <div id="valvulas-gatilho" class="products-grid"></div>
 
-        <p class="subtitle">
-          Encontre válvulas solenoide pneumáticas 2/2, 3/2, 5/2 e 5/3 vias para sistemas de automação industrial.
-        </p>
-
-      </div>
+      <h2 class="title-mecanicas">Compactas</h2>
+      <div id="valvulas-compactas" class="products-grid"></div>
 
     </div>
+  </section>
 
+  <script>lucide.createIcons();</script>
+
+  <div id="cart-sidebar" class="cart-sidebar">
+    <div class="cart-header">
+      <h2 class="my-cart">Meu Carrinho</h2>
+      <p class="cart-summary">
+        <span class="cart-total-items">0</span> itens selecionados
+      </p>
+    </div>
+    <ul id="carrinho-lista">
+      <li id="carrinho-vazio">Seu carrinho está vazio</li>
+    </ul>
+    <button class="clear-cart">Limpar carrinho</button>
+    <button class="finish-budget">Finalizar orçamento</button>
   </div>
 
-</section>
-
-<section class="products-section">
-  <div class="container">
-
-    <!-- CATEGORIA 1 -->
-    <h2 class="section-subtitle">Válvulas Pedais</h2>
-    <div id="..." class="products-grid"></div>
-
-    <!-- CATEGORIA 2 -->
-    <h2 class="section-subtitle">...</h2>
-    <div id="..." class="products-grid"></div>
-
+  <div class="image-modal">
+    <span class="close-modal">×</span>
+    <button class="modal-prev">←</button>
+    <img class="modal-image">
+    <button class="modal-next">→</button>
   </div>
-</section>
+
+  <script src="../../js/carrinho.js"></script>
+  <script src="valvulas-mecanicas.js"></script>
+
+</body>
+
+<footer class="footer">
+  <p>© 2026 Lopes Componentes Pneumáticos</p>
+  <a href="https://www.linkedin.com/in/henrique-wolff-63620930a/" target="_blank" class="developer-credit">
+    Desenvolvido por Henrique Wolff
+  </a>
+</footer>
+
+</html>

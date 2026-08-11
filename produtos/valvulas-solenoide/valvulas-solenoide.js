@@ -31,7 +31,7 @@ const produtos = [
 
 
     {
-        nome: "Válvula 5/2 vias Solenóide/Mola Sem Lubrificação",
+        nome: "Válvula 5/2 vias Solenóide/Mola",
 
         imagens: [
             "../../imagens/valvulas-solenoide/valvula-belton-vx.WebP",
@@ -251,7 +251,7 @@ const produtos = [
 
 
     {
-        nome: "Válvula 2/2 vias Solenóide/Mola Escape na Torre",
+        nome: "Válvula 2/2 vias Solenóide/Mola",
 
         imagens: [
             "../../imagens/valvulas-solenoide/valvula-22-Escape-torre.WebP",
@@ -303,7 +303,7 @@ const produtos = [
 
 
     {
-        nome: "Válvula 2/2 vias Solenóide/Mola Diafragma (Normal Fechada)",
+        nome: "Válvula 2/2 vias Solenóide/Mola Diafragma",
 
         imagens: [
             "../../imagens/valvulas-solenoide/valvula-diafragma.WebP",
@@ -336,7 +336,7 @@ const produtos = [
 
 
     {
-        nome: "Válvula 2/2 vias Solenóide/Mola PURGADORA 16 BAR (Normal Fechada)",
+        nome: "Válvula 2/2 vias Solenóide/Mola PURGADORA",
 
         imagens: [
             "../../imagens/valvulas-solenoide/valvula-22-purgadora.WebP",
