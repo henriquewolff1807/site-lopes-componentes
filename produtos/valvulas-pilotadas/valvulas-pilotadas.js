@@ -4,8 +4,8 @@ const produtos = [
         nome: "Válvula 5/2 vias Piloto/Mola",
 
         imagens: [
-            "../../imagens/pilotadas/piloto-mola-52-vias.WebP",
-            "../../imagens/pilotadas/piloto-mola-52-vias(1).WebP"
+            "../../imagens/pilotadas/piloto-mola-52-vias.webp",
+            "../../imagens/pilotadas/piloto-mola-52-vias(1).webp"
         ],
 
         descricao: "Válvula pilotada 5/2 vias com retorno por mola, ideal para acionamento eficiente de cilindros dupla ação.",
@@ -26,10 +26,10 @@ const produtos = [
         nome: "Válvula 5/2 vias Duplo Piloto",
 
         imagens: [
-            "../../imagens/pilotadas/duplo-piloto-52-vias.WebP",
-            "../../imagens/pilotadas/duplo-piloto-52-vias(1).WebP",
-            "../../imagens/pilotadas/duplo-piloto-52-vias(2).WebP",
-            "../../imagens/pilotadas/duplo-piloto-52-vias(3).WebP"
+            "../../imagens/pilotadas/duplo-piloto-52-vias.webp",
+            "../../imagens/pilotadas/duplo-piloto-52-vias(1).webp",
+            "../../imagens/pilotadas/duplo-piloto-52-vias(2).webp",
+            "../../imagens/pilotadas/duplo-piloto-52-vias(3).webp"
         ],
 
         descricao: "Válvula pilotada 5/2 vias duplo piloto, indicada para controle pneumático preciso e aplicações industriais.",
@@ -50,10 +50,10 @@ const produtos = [
         nome: "Válvula 5/3 vias Duplo Piloto Centro Fechado",
 
         imagens: [
-            "../../imagens/pilotadas/duplo-piloto-53-vias-centro-fechado.WebP",
-            "../../imagens/pilotadas/duplo-piloto-53-vias-centro-fechado(1).WebP",
-            "../../imagens/pilotadas/duplo-piloto-53-vias-centro-fechado(2).WebP",
-            "../../imagens/pilotadas/duplo-piloto-53-vias-centro-fechado(3).WebP"
+            "../../imagens/pilotadas/duplo-piloto-53-vias-centro-fechado.webp",
+            "../../imagens/pilotadas/duplo-piloto-53-vias-centro-fechado(1).webp",
+            "../../imagens/pilotadas/duplo-piloto-53-vias-centro-fechado(2).webp",
+            "../../imagens/pilotadas/duplo-piloto-53-vias-centro-fechado(3).webp"
         ],
 
         descricao: "Válvula pilotada 5/3 vias centro fechado, ideal para manter o cilindro parado com segurança.",
@@ -73,11 +73,11 @@ const produtos = [
         nome: "Válvula 2/2 vias ANGULAR",
 
         imagens: [
-            "../../imagens/pilotadas/angular-piloto-mola-22-vias.WebP",
-            "../../imagens/pilotadas/angular-piloto-mola-22-vias(1).WebP",
-            "../../imagens/pilotadas/angular-piloto-mola-22-vias(2).WebP",
-            "../../imagens/pilotadas/angular-piloto-mola-22-vias(3).WebP",
-            "../../imagens/pilotadas/angular-piloto-mola-22-vias(4).WebP",
+            "../../imagens/pilotadas/angular-piloto-mola-22-vias.webp",
+            "../../imagens/pilotadas/angular-piloto-mola-22-vias(1).webp",
+            "../../imagens/pilotadas/angular-piloto-mola-22-vias(2).webp",
+            "../../imagens/pilotadas/angular-piloto-mola-22-vias(3).webp",
+            "../../imagens/pilotadas/angular-piloto-mola-22-vias(4).webp",
         ],
 
         descricao: "Válvula pilotada 5/3 vias centro fechado, ideal para manter o cilindro parado com segurança.",

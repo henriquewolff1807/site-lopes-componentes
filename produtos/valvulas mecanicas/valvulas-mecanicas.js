@@ -7,9 +7,9 @@ const valvulasPedais = [
     {
         nome: "Válvula Pedal/Mola 5/2 vias Série 4F",
         imagens: [
-            "../../imagens/mecanicas/pedal-mola-52-vias-4f.WebP",
-            "../../imagens/mecanicas/pedal-mola-52-vias-4f(1).WebP",
-            "../../imagens/mecanicas/pedal-mola-52-vias-4f(2).WebP"
+            "../../imagens/mecanicas/pedal-mola-52-vias-4f.webp",
+            "../../imagens/mecanicas/pedal-mola-52-vias-4f(1).webp",
+            "../../imagens/mecanicas/pedal-mola-52-vias-4f(2).webp"
         ],
         descricao: "Acionamento por pedal com retorno por mola, ideal para operações manuais em sistemas pneumáticos.",
         roscas: ['1/4"']
@@ -18,9 +18,9 @@ const valvulasPedais = [
     {
         nome: "Válvula Pedal/Trava 5/2 vias Série 4F",
         imagens: [
-            "../../imagens/mecanicas/pedal-mola-52-vias-4f.WebP",
-            "../../imagens/mecanicas/pedal-mola-52-vias-4f(1).WebP",
-            "../../imagens/mecanicas/pedal-mola-52-vias-4f(2).WebP"
+            "../../imagens/mecanicas/pedal-trava-52-vias-4f(2).webp",
+            "../../imagens/mecanicas/pedal-trava-52-vias-4f.webp",
+            "../../imagens/mecanicas/pedal-trava-52-vias-4f(1).webp"
         ],
         descricao: "Acionamento por pedal com trava, ideal para operações manuais em sistemas pneumáticos.",
         roscas: ['1/4"']
@@ -29,10 +29,10 @@ const valvulasPedais = [
     {
         nome: "Válvula Pedal/Mola 5/2 vias Série FS",
         imagens: [
-            "../../imagens/mecanicas/pedal-trava-52-vias-fs.WebP",
-            "../../imagens/mecanicas/pedal-trava-52-vias-fs(1).WebP",
-            "../../imagens/mecanicas/pedal-trava-52-vias-fs(2).WebP",
-            "../../imagens/mecanicas/pedal-trava-52-vias-fs(3).WebP"
+            "../../imagens/mecanicas/pedal-trava-52-vias-fs.webp",
+            "../../imagens/mecanicas/pedal-trava-52-vias-fs(1).webp",
+            "../../imagens/mecanicas/pedal-trava-52-vias-fs(2).webp",
+            "../../imagens/mecanicas/pedal-trava-52-vias-fs(3).webp"
         ],
         descricao: "Acionamento por pedal com retorno por mola, ideal para operações manuais em sistemas pneumáticos.",
         roscas: ['1/4"']
@@ -41,10 +41,10 @@ const valvulasPedais = [
     {
         nome: "Válvula Pedal/Trava 5/2 vias Série FS",
         imagens: [
-            "../../imagens/mecanicas/pedal-trava-52-vias-fs.WebP",
-            "../../imagens/mecanicas/pedal-trava-52-vias-fs(1).WebP",
-            "../../imagens/mecanicas/pedal-trava-52-vias-fs(2).WebP",
-            "../../imagens/mecanicas/pedal-trava-52-vias-fs(3).WebP"
+            "../../imagens/mecanicas/pedal-trava-52-vias-fs.webp",
+            "../../imagens/mecanicas/pedal-trava-52-vias-fs(1).webp",
+            "../../imagens/mecanicas/pedal-trava-52-vias-fs(2).webp",
+            "../../imagens/mecanicas/pedal-trava-52-vias-fs(3).webp"
         ],
         descricao: "Acionamento por pedal com trava, ideal para operações manuais em sistemas pneumáticos.",
         roscas: ['1/4"']
@@ -53,10 +53,10 @@ const valvulasPedais = [
     {
         nome: "Válvula Pedal/Mola 5/2 vias BELTON",
         imagens: [
-            "../../imagens/mecanicas/pedal-mola-52-vias-belton(3).WebP",
-            "../../imagens/mecanicas/pedal-mola-52-vias-belton.WebP",
-            "../../imagens/mecanicas/pedal-mola-52-vias-belton(1).WebP",
-            "../../imagens/mecanicas/pedal-mola-52-vias-belton(2).WebP",
+            "../../imagens/mecanicas/pedal-mola-52-vias-belton(3).webp",
+            "../../imagens/mecanicas/pedal-mola-52-vias-belton.webp",
+            "../../imagens/mecanicas/pedal-mola-52-vias-belton(1).webp",
+            "../../imagens/mecanicas/pedal-mola-52-vias-belton(2).webp",
         ],
         descricao: "Pedal mola modelo nacional Belton, ideal para operações que necessitam de acionamento manual ",
         roscas: ['1/4"']
@@ -65,9 +65,9 @@ const valvulasPedais = [
     {
         nome: "Válvula Pedal/Trava 3/2 vias BELTON",
         imagens: [
-            "../../imagens/mecanicas/pedal-trava-32-vias-belton(1).WebP",
-            "../../imagens/mecanicas/pedal-trava-32-vias-belton.WebP",
-            "../../imagens/mecanicas/pedal-trava-32-vias-belton(2).WebP",
+            "../../imagens/mecanicas/pedal-trava-32-vias-belton(1).webp",
+            "../../imagens/mecanicas/pedal-trava-32-vias-belton.webp",
+            "../../imagens/mecanicas/pedal-trava-32-vias-belton(2).webp",
         ],
         descricao: "Pedal trava modelo nacional Belton, ideal para operações que necessitam de acionamento manual ",
         roscas: ['1/4"']
@@ -81,8 +81,8 @@ const valvulasAlavancas = [
     {
         nome: "Válvula Alavanca/Mola 5/2 vias",
         imagens: [
-            "../../imagens/mecanicas/alavanca-mola-52-vias.WebP",
-            "../../imagens/mecanicas/alavanca-mola-52-vias(1).WebP"
+            "../../imagens/mecanicas/alavanca-mola-52-vias.webp",
+            "../../imagens/mecanicas/alavanca-mola-52-vias(1).webp"
         ],
         descricao: "Acionamento por alavanca com retorno por mola para controle manual de sistemas pneumáticos.",
         roscas: ['1/8"', '1/4"', '3/8"', '1/2"']
@@ -91,8 +91,8 @@ const valvulasAlavancas = [
     {
         nome: "Válvula Alavanca/Mola 5/3 vias Centro Fechado",
         imagens: [
-            "../../imagens/mecanicas/alavanca-mola-53-vias-centro-fechado.WebP",
-            "../../imagens/mecanicas/alavanca-mola-53-vias-centro-fechado(1).WebP"
+            "../../imagens/mecanicas/alavanca-mola-53-vias-centro-fechado.webp",
+            "../../imagens/mecanicas/alavanca-mola-53-vias-centro-fechado(1).webp"
         ],
         descricao: "Alavanca com retorno ao centro por mola para controle manual de sistemas pneumáticos.",
         roscas: ['1/8"', '1/4"', '3/8"', '1/2"']
@@ -101,8 +101,8 @@ const valvulasAlavancas = [
     {
         nome: "Válvula Alavanca/Trava 5/2 vias",
         imagens: [
-            "../../imagens/mecanicas/alavanca-trava-52-vias.WebP",
-            "../../imagens/mecanicas/alavanca-trava-52-vias(1).WebP"
+            "../../imagens/mecanicas/alavanca-trava-52-vias.webp",
+            "../../imagens/mecanicas/alavanca-trava-52-vias(1).webp"
         ],
         descricao: "Válvula alavanca trava, ideal para controle manual de sistemas pneumáticos.",
         roscas: ['1/8"', '1/4"', '3/8"', '1/2"']
@@ -111,8 +111,8 @@ const valvulasAlavancas = [
     {
         nome: "Válvula Alavanca/Trava 5/3 vias Centro Fechado",
         imagens: [
-            "../../imagens/mecanicas/alavanca-trava-53-vias-centro-fechado.WebP",
-            "../../imagens/mecanicas/alavanca-trava-53-vias-centro-fechado(1).WebP"
+            "../../imagens/mecanicas/alavanca-trava-53-vias-centro-fechado.webp",
+            "../../imagens/mecanicas/alavanca-trava-53-vias-centro-fechado(1).webp"
         ],
         descricao: "Válvula alavanca trava com centro fechado, ideal para controle manual de sistemas pneumáticos.",
         roscas: ['1/8"', '1/4"', '3/8"', '1/2"']
@@ -121,8 +121,8 @@ const valvulasAlavancas = [
     {
         nome: "Válvula Alavanca/Trava 4/3 vias Centro Fechado",
         imagens: [
-            "../../imagens/mecanicas/rotativa-43-vias-centro-fechado.WebP",
-            "../../imagens/mecanicas/rotativa-43-vias-centro-fechado(1).WebP"
+            "../../imagens/mecanicas/rotativa-43-vias-centro-fechado.webp",
+            "../../imagens/mecanicas/rotativa-43-vias-centro-fechado(1).webp"
         ],
         descricao: "Válvula Rotativa alavanca trava com centro fechado, ideal para controle manual de sistemas pneumáticos.",
         roscas: ['1/4"', '3/8"', '1/2"']
@@ -136,11 +136,62 @@ const valvulasBotao = [
     {
         nome: "Válvula Botão/Mola 3/2 vias",
         imagens: [
-            "../../imagens/mecanicas/botao-mola-32-vias.WebP",
-            "../../imagens/mecanicas/botao-mola-32-vias(1).WebP"
+            "../../imagens/mecanicas/botao-mola-32-vias.webp",
+            "../../imagens/mecanicas/botao-mola-32-vias(1).webp"
         ],
         descricao: "Acionamento por botão com retorno por mola para comando manual de circuitos pneumáticos.",
         roscas: ['1/8"', '1/4"', '3/8"']
+    },
+
+    {
+        nome: "Válvula Botão Interno/Mola 3/2 vias M5",
+        imagens: [
+            "../../imagens/mecanicas/botao-interno-mini-32-vias.webp",
+            "../../imagens/mecanicas/botao-interno-mini-32-vias(1).webp"
+        ],
+        descricao: "Acionamento por botão com retorno por mola para comando manual de circuitos pneumáticos.",
+        roscas: ['M5"']
+    },
+
+
+    {
+        nome: "Válvula 5/2 vias Botão/Mola ",
+        imagens: [
+            "../../imagens/mecanicas/botao-mola-52-vias.webp",
+            "../../imagens/mecanicas/botao-mola-52-vias(1).webp"
+        ],
+        descricao: "Acionamento por botão com retorno por mola para comando manual de circuitos pneumáticos.",
+        roscas: ['1/8"', '1/4"', '3/8"', '1/2"']
+    },
+
+    {
+        nome: "Válvula Botão/Trava 5/2 vias",
+        imagens: [
+            "../../imagens/mecanicas/botao-trava-52-vias.webp",
+            "../../imagens/mecanicas/botao-trava-52-vias(1).webp"
+        ],
+        descricao: "Acionamento por botão com trava, para comando manual de circuitos pneumáticos.",
+        roscas: ['1/8"', '1/4"', '3/8"', '1/2"']
+    },
+
+    {
+        nome: 'Válvula Botão/Trava 5/2 vias Escapes de 1/8"',
+        imagens: [
+            "../../imagens/mecanicas/botao-trava-52-vias-escape-1-8.webp",
+            "../../imagens/mecanicas/botao-trava-52-vias-escape-1-8(1).webp"
+        ],
+        descricao: "Acionamento por botão com retorno por mola para comando manual de circuitos pneumáticos.",
+        roscas: ['1/8"', '1/4"', '3/8"', '1/2"']
+    },
+
+    {
+        nome: "Válvula Botão/Trava 5/2 vias Modelo BELTON",
+        imagens: [
+            "../../imagens/mecanicas/botao-mola-52-vias-belton.webp",
+            "../../imagens/mecanicas/botao-mola-52-vias-belton(1).webp"
+        ],
+        descricao: "Acionamento por botão com trava para comando manual de circuitos pneumáticos.",
+        roscas: ['1/8"']
     },
 ];
 
@@ -150,8 +201,18 @@ const valvulasPino = [
     {
         nome: "Válvula Pino/Mola 3/2 vias",
         imagens: [
-            "../../imagens/mecanicas/pino-mola-32-vias.WebP",
-            "../../imagens/mecanicas/pino-mola-32-vias(1).WebP"
+            "../../imagens/mecanicas/pino-mola-32-vias.webp",
+            "../../imagens/mecanicas/pino-mola-32-vias(1).webp"
+        ],
+        descricao: "Acionamento por pino para detecção de posição e fim de curso em sistemas pneumáticos.",
+        roscas: ['1/8"', '1/4"']
+    },
+
+    {
+        nome: "Válvula Pino/Mola 5/2 vias",
+        imagens: [
+            "../../imagens/mecanicas/pino-mola-52-vias.webp",
+            "../../imagens/mecanicas/pino-mola-52-vias(1).webp"
         ],
         descricao: "Acionamento por pino para detecção de posição e fim de curso em sistemas pneumáticos.",
         roscas: ['1/8"', '1/4"']
@@ -164,12 +225,25 @@ const valvulasRolete = [
     {
         nome: "Válvula Rolete/Mola 3/2 vias",
         imagens: [
-            "../../imagens/mecanicas/rolete-mola-32-vias.WebP",
-            "../../imagens/mecanicas/rolete-mola-32-vias(1).WebP"
+            "../../imagens/mecanicas/rolete-mola-32-vias.webp",
+            "../../imagens/mecanicas/rolete-mola-32-vias(1).webp",
+            "../../imagens/mecanicas/rolete-para-valv-mec-18.webp",
+            "../../imagens/mecanicas/rolete-para-valv-mec-18(1).webp"
         ],
         descricao: "Acionamento por rolete para detecção de posição e fim de curso em sistemas pneumáticos.",
         roscas: ['1/8"']
     },
+
+    {
+        nome: "Válvula Rolete/Mola 3/2 vias M5 BELTON",
+        imagens: [
+            "../../imagens/mecanicas/rolete-mola-32-vias-m5-belton.webp",
+            "../../imagens/mecanicas/rolete-mola-32-vias-m5-belton(1).webp",
+        ],
+        descricao: "Acionamento por rolete para detecção de posição e fim de curso em sistemas pneumáticos.",
+        roscas: ['M5"']
+    },
+
 ];
 
 
@@ -179,12 +253,24 @@ const valvulasGatilho = [
     {
         nome: "Válvula Gatilho/Mola 3/2 vias",
         imagens: [
-            "../../imagens/mecanicas/gatilho-mola-32-vias-m5-belton.WebP",
-            "../../imagens/mecanicas/gatilho-mola-32-vias-m5-belton(1).WebP"
+            "../../imagens/mecanicas/gatilho-mola-32-vias-m5-belton.webp",
+            "../../imagens/mecanicas/gatilho-mola-32-vias-m5-belton(1).webp"
         ],
         descricao: "Acionamento por gatilho para controle manual de ferramentas e sistemas pneumáticos.",
         roscas: ['M5"']
     },
+
+    {
+        nome: "Atuador Gatilho para M5",
+        imagens: [
+            "../../imagens/mecanicas/atuador-gatilho-para-m5.webp",
+            "../../imagens/mecanicas/atuador-gatilho-para-m5(1).webp"
+        ],
+        descricao: "Acionamento por gatilho para controle manual de ferramentas e sistemas pneumáticos.",
+        roscas: ['M5"']
+    },
+
+
 ];
 
 
@@ -192,15 +278,56 @@ const valvulasGatilho = [
 
 const valvulasCompactas = [
     {
+        nome: "Válvula Alavanca/Trava 3/2 vias COMPACTA",
+        imagens: [
+
+            "../../imagens/mecanicas/alavanca-32-vias-compacta-m5.webp",
+            "../../imagens/mecanicas/alavanca-32-vias-compacta-m5(1).webp",
+            "../../imagens/mecanicas/alavanca-32-vias-compacta.webp",
+            "../../imagens/mecanicas/alavanca-32-vias-compacta(1).webp"
+        ],
+        descricao: "Acionamento por alavanca para controle manual de ferramentas e sistemas pneumáticos que permitem pouco espaço.",
+        roscas: ['M5", 1/8"']
+    },
+
+    {
+        nome: "Válvula Alavanca/Trava 5/2 vias COMPACTA",
+        imagens: [
+
+            "../../imagens/mecanicas/alavanca-52-vias-compacta.webp",
+            "../../imagens/mecanicas/alavanca-52-vias-compacta(1).webp"
+        ],
+        descricao: "Acionamento por alavanca para controle manual de ferramentas e sistemas pneumáticos que permitem pouco espaço.",
+        roscas: ['1/8"']
+    },
+
+
+    {
+        nome: "Válvula Botão/Mola 3/2 vias COMPACTA",
+        imagens: [
+
+            "../../imagens/mecanicas/botao-mola-32-vias-compacta-m5.webp",
+            "../../imagens/mecanicas/botao-mola-32-vias-compacta-m5(1).webp",
+            "../../imagens/mecanicas/botao-mola-32-vias-compacta.webp",
+            "../../imagens/mecanicas/botao-mola-32-vias-compacta(1).webp"
+        ],
+        descricao: "Acionamento por botão com retorno por mola para controle manual de ferramentas e sistemas pneumáticos que permitem pouco espaço.",
+        roscas: ['M5", 1/8"']
+    },
+
+    {
         nome: "Válvula Botão/Mola 5/2 vias COMPACTA",
         imagens: [
 
-            "../../imagens/mecanicas/gatilho-mola-32-vias-m5-belton.WebP",
-            "../../imagens/mecanicas/gatilho-mola-32-vias-m5-belton(1).WebP"
+            "../../imagens/mecanicas/botao-mola-52-vias-compacta-m5.webp",
+            "../../imagens/mecanicas/botao-mola-52-vias-compacta-m5(1).webp",
+            "../../imagens/mecanicas/botao-mola-52-vias-compacta.webp",
+            "../../imagens/mecanicas/botao-mola-52-vias-compacta(1).webp",
         ],
-        descricao: "Acionamento por gatilho para controle manual de ferramentas e sistemas pneumáticos.",
-        roscas: ['M5"']
+        descricao: "Acionamento por botão com retorno por mola para controle manual de ferramentas e sistemas pneumáticos que permitem pouco espaço.",
+        roscas: ['M5", 1/8"']
     },
+
 ];
 
 

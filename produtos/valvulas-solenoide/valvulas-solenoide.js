@@ -6,8 +6,8 @@ const produtos = [
         nome: "Válvula 5/2 vias Solenóide/Mola",
 
         imagens: [
-            "../../imagens/valvulas-solenoide/valvula-52.WebP",
-            "../../imagens/valvulas-solenoide/valvula-52 (1).WebP"
+            "../../imagens/valvulas-solenoide/valvula-52.webp",
+            "../../imagens/valvulas-solenoide/valvula-52 (1).webp"
         ],
 
         descricao: "Ideal para acionamento de cilindros pneumáticos de dupla ação com excelente desempenho e confiabilidade.",
@@ -34,8 +34,8 @@ const produtos = [
         nome: "Válvula 5/2 vias Solenóide/Mola",
 
         imagens: [
-            "../../imagens/valvulas-solenoide/valvula-belton-vx.WebP",
-            "../../imagens/valvulas-solenoide/valvula-belton-vx(1).WebP"
+            "../../imagens/valvulas-solenoide/valvula-belton-vx.webp",
+            "../../imagens/valvulas-solenoide/valvula-belton-vx(1).webp"
         ],
 
         descricao: "Modelo nacional de alta durabilidade, desenvolvida para operar sem necessidade de lubrificação, mas com ar seco. ",
@@ -61,8 +61,8 @@ const produtos = [
         nome: "Válvula 5/2 vias Solenóide/Mola",
 
         imagens: [
-            "../../imagens/valvulas-solenoide/valvula-belton-vn.WebP",
-            "../../imagens/valvulas-solenoide/valvula-belton-vn(1).WebP"
+            "../../imagens/valvulas-solenoide/valvula-belton-vn.webp",
+            "../../imagens/valvulas-solenoide/valvula-belton-vn(1).webp"
         ],
 
         descricao: "Válvula nacional robusta para aplicações industriais que exigem desempenho e confiabilidade contínuos.",
@@ -90,9 +90,9 @@ const produtos = [
         nome: "Válvula 5/2 vias Solenóide/Mola -NAMUR-",
 
         imagens: [
-            "../../imagens/valvulas-solenoide/valvula-52-namur.WebP",
-            "../../imagens/valvulas-solenoide/valvula-52-namur(1).WebP",
-            "../../imagens/valvulas-solenoide/valvula-52-namur(2).WebP"
+            "../../imagens/valvulas-solenoide/valvula-52-namur.webp",
+            "../../imagens/valvulas-solenoide/valvula-52-namur(1).webp",
+            "../../imagens/valvulas-solenoide/valvula-52-namur(2).webp"
         ],
 
         descricao: "Indicada para montagem direta em atuadores pneumáticos padrão NAMUR, oferecendo instalação rápida e compacta.",
@@ -116,8 +116,8 @@ const produtos = [
         nome: "Válvula 5/2 vias Duplo Solenóide",
 
         imagens: [
-            "../../imagens/valvulas-solenoide/valvula-52-DS.WebP",
-            "../../imagens/valvulas-solenoide/valvula-52-DS (1).WebP"
+            "../../imagens/valvulas-solenoide/valvula-52-DS.webp",
+            "../../imagens/valvulas-solenoide/valvula-52-DS (1).webp"
         ],
 
         descricao: "Permite controle preciso de cilindros pneumáticos utilizando dois acionamentos elétricos independentes.",
@@ -144,9 +144,9 @@ const produtos = [
         nome: "Válvula 5/2 vias Solenóide/Mola Modelo SY",
 
         imagens: [
-            "../../imagens/valvulas-solenoide/valvula-sy.WebP",
-            "../../imagens/valvulas-solenoide/valvula-sy(1).WebP",
-            "../../imagens/valvulas-solenoide/valvula-sy(2).WebP",
+            "../../imagens/valvulas-solenoide/valvula-sy.webp",
+            "../../imagens/valvulas-solenoide/valvula-sy(1).webp",
+            "../../imagens/valvulas-solenoide/valvula-sy(2).webp",
         ],
 
         descricao: "Modelo compacto com excelente desempenho para sistemas pneumáticos com espaço reduzido. Modelo SY.",
@@ -169,8 +169,8 @@ const produtos = [
         nome: "Válvula 3/2 vias Solenóide/Mola",
 
         imagens: [
-            "../../imagens/valvulas-solenoide/valvula-32.WebP",
-            "../../imagens/valvulas-solenoide/valvula-32 (1).WebP"
+            "../../imagens/valvulas-solenoide/valvula-32.webp",
+            "../../imagens/valvulas-solenoide/valvula-32 (1).webp"
         ],
 
         descricao: "Válvula normal fechada ideal para controle de cilindros simples ação e diversos comandos pneumáticos industriais.",
@@ -197,10 +197,10 @@ const produtos = [
 
         imagens: [
 
-            "../../imagens/valvulas-solenoide/valula-32-compacta.WebP",
-            "../../imagens/valvulas-solenoide/valula-32-compacta(1).WebP",
-            "../../imagens/valvulas-solenoide/valula-32-compacta(2).WebP",
-            "../../imagens/valvulas-solenoide/valula-32-compacta(3).WebP"
+            "../../imagens/valvulas-solenoide/valula-32-compacta.webp",
+            "../../imagens/valvulas-solenoide/valula-32-compacta(1).webp",
+            "../../imagens/valvulas-solenoide/valula-32-compacta(2).webp",
+            "../../imagens/valvulas-solenoide/valula-32-compacta(3).webp"
 
         ],
 
@@ -224,8 +224,8 @@ const produtos = [
         nome: "Válvula 5/3 vias Duplo Solenóide Centro Fechado",
 
         imagens: [
-            "../../imagens/valvulas-solenoide/valvula-53.WebP",
-            "../../imagens/valvulas-solenoide/valvula-53(1).WebP"
+            "../../imagens/valvulas-solenoide/valvula-53.webp",
+            "../../imagens/valvulas-solenoide/valvula-53(1).webp"
 
         ],
 
@@ -254,8 +254,8 @@ const produtos = [
         nome: "Válvula 2/2 vias Solenóide/Mola",
 
         imagens: [
-            "../../imagens/valvulas-solenoide/valvula-22-Escape-torre.WebP",
-            "../../imagens/valvulas-solenoide/valvula-22-Escape-torre (1).WebP"
+            "../../imagens/valvulas-solenoide/valvula-22-Escape-torre.webp",
+            "../../imagens/valvulas-solenoide/valvula-22-Escape-torre (1).webp"
 
         ],
 
@@ -280,8 +280,8 @@ const produtos = [
         nome: "Válvula 2/2 vias Solenóide/Mola",
 
         imagens: [
-            "../../imagens/valvulas-solenoide/valvula-22.WebP",
-            "../../imagens/valvulas-solenoide/valvula-22 (1).WebP"
+            "../../imagens/valvulas-solenoide/valvula-22.webp",
+            "../../imagens/valvulas-solenoide/valvula-22 (1).webp"
         ],
 
         descricao: "Controla a passagem de ar comprimido com acionamento elétrico simples e confiável.",
@@ -306,9 +306,9 @@ const produtos = [
         nome: "Válvula 2/2 vias Solenóide/Mola Diafragma",
 
         imagens: [
-            "../../imagens/valvulas-solenoide/valvula-diafragma.WebP",
-            "../../imagens/valvulas-solenoide/valvula-diafragma (1).WebP",
-            "../../imagens/valvulas-solenoide/valvula-diafragma (2).WebP",
+            "../../imagens/valvulas-solenoide/valvula-diafragma.webp",
+            "../../imagens/valvulas-solenoide/valvula-diafragma (1).webp",
+            "../../imagens/valvulas-solenoide/valvula-diafragma (2).webp",
         ],
 
         descricao: "Indicada para controle de água, ar e fluidos compatíveis com vedação por diafragma.",
@@ -339,9 +339,9 @@ const produtos = [
         nome: "Válvula 2/2 vias Solenóide/Mola PURGADORA",
 
         imagens: [
-            "../../imagens/valvulas-solenoide/valvula-22-purgadora.WebP",
-            "../../imagens/valvulas-solenoide/valvula-22-purgadora(1).WebP",
-            "../../imagens/valvulas-solenoide/valvula-22-purgadora(2).WebP",
+            "../../imagens/valvulas-solenoide/valvula-22-purgadora.webp",
+            "../../imagens/valvulas-solenoide/valvula-22-purgadora(1).webp",
+            "../../imagens/valvulas-solenoide/valvula-22-purgadora(2).webp",
         ],
 
         descricao: "Projetada para sistemas de purga automática, suportando pressões de até 16 BAR.",
@@ -964,9 +964,9 @@ const bobinas = [
     {
         nome: "Bobina para Válvula Diafragma",
         imagens: [
-            "../../imagens/valvulas-solenoide/bobina-diafragma.WebP",
-            "../../imagens/valvulas-solenoide/bobina-diafragma(1).WebP",
-            "../../imagens/valvulas-solenoide/bobina-diafragma(2).WebP",
+            "../../imagens/valvulas-solenoide/bobina-diafragma.webp",
+            "../../imagens/valvulas-solenoide/bobina-diafragma(1).webp",
+            "../../imagens/valvulas-solenoide/bobina-diafragma(2).webp",
         ],
         descricao: "Bobina para válvulas diafragma de alto desempenho.",
         voltagens: [
@@ -982,8 +982,8 @@ const bobinas = [
     {
         nome: "Bobina Comum",
         imagens: [
-            "../../imagens/valvulas-solenoide/bobina.WebP",
-            "../../imagens/valvulas-solenoide/bobina(1).WebP"
+            "../../imagens/valvulas-solenoide/bobina.webp",
+            "../../imagens/valvulas-solenoide/bobina(1).webp"
         ],
         descricao: "Bobina para válvulas pneumáticas de uso geral.",
         voltagens: [
@@ -1000,9 +1000,9 @@ const bobinas = [
     {
         nome: "Bobina para Válvula Purgadora",
         imagens: [
-            "../../imagens/valvulas-solenoide/bobina-purgadora.WebP",
-            "../../imagens/valvulas-solenoide/bobina-purgadora(1).WebP",
-            "../../imagens/valvulas-solenoide/bobina-purgadora(2).WebP"
+            "../../imagens/valvulas-solenoide/bobina-purgadora.webp",
+            "../../imagens/valvulas-solenoide/bobina-purgadora(1).webp",
+            "../../imagens/valvulas-solenoide/bobina-purgadora(2).webp"
         ],
         descricao: "Bobina para válvulas purgadoras de condensado.",
         voltagens: [
