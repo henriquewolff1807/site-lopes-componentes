@@ -287,7 +287,7 @@ const valvulasCompactas = [
             "../../imagens/mecanicas/alavanca-32-vias-compacta(1).webp"
         ],
         descricao: "Acionamento por alavanca para controle manual de ferramentas e sistemas pneumáticos que permitem pouco espaço.",
-        roscas: ['M5", 1/8"']
+        roscas: ['M5"', '1/8"']
     },
 
     {
@@ -312,7 +312,7 @@ const valvulasCompactas = [
             "../../imagens/mecanicas/botao-mola-32-vias-compacta(1).webp"
         ],
         descricao: "Acionamento por botão com retorno por mola para controle manual de ferramentas e sistemas pneumáticos que permitem pouco espaço.",
-        roscas: ['M5", 1/8"']
+        roscas: ['M5"', '1/8"']
     },
 
     {
@@ -325,7 +325,7 @@ const valvulasCompactas = [
             "../../imagens/mecanicas/botao-mola-52-vias-compacta(1).webp",
         ],
         descricao: "Acionamento por botão com retorno por mola para controle manual de ferramentas e sistemas pneumáticos que permitem pouco espaço.",
-        roscas: ['M5", 1/8"']
+        roscas: ['M5"', '1/8"']
     },
 
 ];
