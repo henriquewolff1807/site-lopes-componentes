@@ -28,7 +28,7 @@ const produtos = [
 
   {
     nome: "Cilindros ISO",
-    imagem: "imagens/cilindroiso/cilindroiso.jpeg",
+    imagem: "imagens/cilindro-iso/cilindroiso.webp",
     alt: "Cilindro ISO pneumático industrial",
     descricao: "Cilindros padronizados com alta durabilidade e desempenho para aplicações industriais variadas.",
     link: "produtos/cilindro-iso/cilindro-iso.html"
@@ -36,7 +36,7 @@ const produtos = [
 
   {
     nome: "Cilindros Mini ISO",
-    imagem: "imagens/cilindro-mini/cilindrosminiisocopy.jpeg",
+    imagem: "imagens/cilindro-mini/cilindrosminiiso.webp",
     alt: "Cilindro mini ISO pneumático industrial",
     descricao: "Compacto e eficiente, ideal para sistemas com espaço reduzido sem perder performance.",
     link: "produtos/cilindro-mini/cilindro-mini-iso.html"

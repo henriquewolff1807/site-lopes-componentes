@@ -1848,3 +1848,57 @@ body {
         height: 240px;
     }
 } 
+
+/* ===================== CARD HORIZONTAL ===================== */
+
+.product-card-horizontal {
+    flex-direction: row;
+    max-width: 100%;
+    height: auto;
+}
+
+.product-card-horizontal .product-image-btn {
+    width: 520px;
+    min-width: 520px;
+    height: auto;
+}
+
+.product-card-horizontal .product-content {
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* ← centraliza verticalmente */
+    padding: 20px;
+    
+}
+
+#cilindros-iso {
+    grid-template-columns: 1fr;
+}
+#cilindros-mini-iso {
+    grid-template-columns: 1fr;
+}
+
+.product-card-horizontal .products-description {
+    margin-bottom: 40px;
+    font-size: 16px;
+}
+
+.product-card-horizontal .product-title {
+    font-size: 25px;
+}
+
+#cilindros-mini-iso .product-card-horizontal .product-image-btn {
+    width: 400px;
+    min-width: 500px;
+}
+
+#cilindros-mini-iso .product-card-horizontal .product-title {
+    margin-bottom: 20px;
+}
+
+#cilindros-mini-iso .product-card-horizontal .product-description {
+    font-size: 22px;
+}
+
