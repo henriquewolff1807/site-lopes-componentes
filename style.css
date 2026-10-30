@@ -430,7 +430,7 @@ body {
 
     margin-bottom: 20px;
 
-    min-height: 70px;
+    min-height: 120px;
 
     line-height:1.5;
 
@@ -1068,7 +1068,8 @@ body {
 
 }
 
-.thread-select {
+.thread-select,
+.tube-select {
 
     width: 100%;
 
@@ -1901,4 +1902,11 @@ body {
 #cilindros-mini-iso .product-card-horizontal .product-description {
     font-size: 22px;
 }
+
+.title-preparacaoDoAr {
+    font-size: 42px;
+    margin-top: 30px;
+    text-align:center;
+}
+
 

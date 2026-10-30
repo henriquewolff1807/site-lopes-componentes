@@ -4,7 +4,7 @@ const produtos = [
 
   {
     nome: "Válvulas Solenóide e Bobinas",
-    imagem: "imagens/valvulas-solenoide/valvula-52.WebP",
+    imagem: "imagens/valvulas-solenoide/valvula-52.webp",
     alt: "Válvula solenóide pneumática industrial",
     descricao: "Controle preciso do fluxo de ar por acionamento elétrico, ideal para automação industrial e sistemas pneumáticos",
     link: "produtos/valvulas-solenoide/valvulas-solenoide.html"
@@ -12,7 +12,7 @@ const produtos = [
 
   {
     nome: "Válvulas Pilotadas",
-    imagem: "imagens/pilotadas/duplo-piloto-52-vias.WebP",
+    imagem: "imagens/pilotadas/duplo-piloto-52-vias.webp",
     alt: "Válvula pilotada pneumática industrial",
     descricao: "Indicadas para sistemas lógicos que exigem acionamento da válvula através de sinal pneumático.",
     link: "produtos/valvulas-pilotadas/valvulas-pilotadas.html"
@@ -20,7 +20,7 @@ const produtos = [
 
   {
     nome: "Válvulas Mecânicas",
-    imagem: "imagens/mecanicas/pedal-mola-52-vias-4f(2).WebP",
+    imagem: "imagens/mecanicas/pedal-mola-52-vias-4f(2).webp",
     alt: "Válvula mecânica pneumática industrial",
     descricao: "Acionamento manual ou mecânico para controle seguro e prático do fluxo de ar comprimido.",
     link: "produtos/valvulas mecanicas/valvulas-mecanicas.html"
@@ -44,7 +44,7 @@ const produtos = [
 
   {
     nome: "Acessórios para Cilindros",
-    imagem: "imagens/acessorios/acessorios.jpeg",
+    imagem: "imagens/acessorios/acessorios.webp",
     alt: "Acessórios para Cilindros pneumáticos industrial",
     descricao: "Linha completa de suportes, ponteiras e fixações para montagem e melhor funcionamento dos cilindros.",
     link: "produtos/acessorios/acessorios-cilindros.html"
@@ -52,7 +52,7 @@ const produtos = [
 
   {
     nome: "Conjunto Preparação do Ar",
-    imagem: "imagens/lubrefil/lubrefil.jpeg",
+    imagem: "imagens/lubrefil/lubrefil.webp",
     alt: "Conjunto preparação de ar, filtro, regulador e lubrificador pneumático industrial",
     descricao: "Equipamentos que filtram, regulam e lubrificam o ar comprimido, garantindo maior vida útil ao sistema.",
     link: "produtos/preparacao-do-ar/preparacao-do-ar.html"
@@ -60,7 +60,7 @@ const produtos = [
 
   {
     nome: "Conexões Pneumáticas",
-    imagem: "imagens/conexoes/conexoes.jpeg",
+    imagem: "imagens/conexoes/conexoes.webp",
     alt: "Conexões pneumáticas industriais",
     descricao: "Conexões práticas e resistentes para montagem segura e eficiente de sistemas pneumáticos.",
     link: "produtos/conexoes/conexoes.html"

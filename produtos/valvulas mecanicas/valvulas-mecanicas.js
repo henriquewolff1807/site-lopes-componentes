@@ -330,7 +330,6 @@ const valvulasCompactas = [
 
 ];
 
-
 // ===================== DOM =====================
 
 const gridPedais = document.getElementById("valvulas-pedais");
