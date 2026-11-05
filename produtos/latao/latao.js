@@ -159,7 +159,7 @@ function criarCard(produto, index) {
                     <select class="thread-select">
                         <option value="">Selecione</option>
                         ${produto.rosca.map(rosca => `
-                            <option value="${rosca}">${rosca}</option>
+                            <option value="${rosca.replace(/"/g, "&quot;")}">${rosca}</option>
                         `).join("")}
                     </select>
                 </div>
