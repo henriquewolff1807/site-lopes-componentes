@@ -76,7 +76,7 @@ const cilindrosISO = [
         imagens: [
             "../../imagens/cilindro-iso/cilindro-iso-mickey-mouse-haste-passante.webp",
         ],
-        descricao: "Cilindro pneumático compacto com haste passante, indicado para aplicações que exigem economia de espaço e acionamento em ambas as extremidades.",
+        descricao: "Cilindro pneumático com haste passante, indicado para aplicações que precisam de acionamento em ambos os lados",
         diametro: ["32mm", "40mm", "50mm", "63mm", "80mm", "100mm", "125mm"],
         material: ["Buna/AçoCromado", "Buna/AçoInox", "Viton/AçoCromado", "Viton/AçoInox"],
         cursoMax: 1800,
@@ -124,7 +124,7 @@ const cilindrosISO = [
         imagens: [
             "../../imagens/cilindro-iso/cilindro-adn-haste-passante.webp",
         ],
-        descricao: "Cilindro pneumático compacto com haste passante, indicado para automação e aplicações que exigem acionamento em ambas as extremidades.",
+        descricao: "Cilindro pneumático compacto modelo ADN com haste passante, indicado para aplicações com espço reduzido",
         diametro: ["16mm", "20mm", "25mm", "32mm", "40mm", "50mm", "63mm", "80mm", "100mm"],
         roscas: ["Rosca Macho", "Rosca Fêmea"],
         material: ["Buna/AçoCromado", "Buna/AçoInox"],
