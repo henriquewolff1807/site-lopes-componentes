@@ -83,13 +83,6 @@ body {
     color: #003cbd;
 }
 
-@media (max-width: 768px) {
-
-    .logo-text {
-        font-size: 16px;
-    }
-
-}
 
 .nav-menu {
     display: flex;
@@ -151,32 +144,6 @@ body {
 
 
 /* BOTÃO CARRINHO */
-
-.cart-button {
-
-    position: relative;
-
-    width: 52px;
-    height: 52px;
-
-    border: none;
-
-    border-radius: 14px;
-
-    background: rgb(255, 255, 255);
-
-    color: #2563eb;
-
-    cursor: pointer;
-
-    display: flex;
-
-    align-items: center;
-    justify-content: center;
-
-    transition: 0.3s;
-}
-
 .cart-button:hover {
 
     transform: translateY(-3px);
@@ -734,17 +701,6 @@ body {
 }
 
 
-/* RESPONSIVO */
-
-@media (max-width: 900px) {
-
-    .contact-wrapper {
-
-        flex-direction: column;
-    }
-}
-
-
 /* =========================
    FLOATING WHATSAPP
 ========================= */
@@ -775,11 +731,6 @@ body {
 }
 
 
-
-/* =========================
-   RESPONSIVE
-========================= */
-
 .footer {
     padding: 24px;
     text-align: center;
@@ -799,59 +750,6 @@ body {
     color: white;
 }
 
-/* =========================
-   RESPONSIVE
-========================= */
-
-@media (max-width: 992px) {
-
-    .hero-content {
-        flex-direction: column;
-    }
-
-    .hero-text h1 {
-        font-size: 42px;
-    }
-
-    .products-grid {
-        grid-template-columns: repeat(2, 1fr);
-    }
-
-}
-
-
-@media (max-width: 768px) {
-
-    .nav-menu {
-        display: none;
-    }
-
-    .products-grid {
-        grid-template-columns: 1fr;
-    }
-
-    .hero-buttons {
-        flex-direction: column;
-    }
-
-    .hero-text h1 {
-        font-size: 34px;
-    }
- .primary-button,
-    .whatsapp-button {
-        width: 100%;
-        text-align: center;
-    }
-  }
-
-@media (max-width: 768px) {
-
-    .product-image-btn {
-        height: 260px;
-
-    }
-
-}
 
 /* =========================
    CATEGORY PAGE
@@ -877,30 +775,21 @@ body {
 }
 
 .cart-button {
-
     position: relative;
-
     display: flex;
-
     align-items: center;
-
     justify-content: center;
 
     width: 50px;
     height: 50px;
 
+    border: 1px solid #2563eb;
     border-radius: 12px;
 
-    border: none;
-
-    border: 1px solid #2563eb;
-
     background: #ffffff;
-
-    color: rgb(197, 0, 0);
+    color: #2563eb;
 
     cursor: pointer;
-
     transition: 0.3s;
 }
 
@@ -1168,21 +1057,6 @@ body {
 
 }
 
-.cart-sidebar {
-    position: fixed;
-    top: 0;
-    right: -400px; /* 🔴 fora da tela */
-    width: 400px;
-    height: 100%;
-    background: white;
-    box-shadow: 5px 5px 10px rgba(3, 14, 39, 0.596);
-    transition: 0.3s ease;
-    z-index: 999;
-    padding: 20px;
-    overflow-y: auto;
-    max-height: 100vh;
-}
-
 @keyframes shake {
 
     0% { transform: translateX(0); }
@@ -1288,35 +1162,21 @@ body {
 
 /* ===================== CARRINHO ===================== */
 
-
 .cart-sidebar {
-
-    width: 360px;
-
-    height: 100vh;
-
-    background: white;
-
     position: fixed;
-
     top: 0;
-
     right: -400px;
-
+    width: 360px;
+    height: 100vh;
+    background: white;
     padding: 25px;
-
-    box-shadow: -5px 0 20px rgba(0,0,0,0.15);
-
-    transition: 0.3s;
-
+    box-shadow: -5px 0 20px rgba(0, 0, 0, 0.15);
+    transition: 0.3s ease;
     z-index: 999;
-
     display: flex;
-
     flex-direction: column;
-
+    overflow-y: auto;
 }
-
 
 
 .my-cart {
@@ -1823,33 +1683,6 @@ body {
 }
 
 
-/* RESPONSIVO */
-
-@media (max-width: 768px) {
-
-    .category-page {
-
-        padding-top: 120px;
-
-        text-align: center;
-    }
-
-    .category-subtitle {
-
-        font-size: 16px;
-    }
-
-    .back-button {
-
-        margin-top: 18px;
-    }
-
-    .category-products .product-image {
-
-        height: 240px;
-    }
-} 
-
 /* ===================== CARD HORIZONTAL ===================== */
 
 .product-card-horizontal {
@@ -1907,6 +1740,164 @@ body {
     font-size: 42px;
     margin-top: 30px;
     text-align:center;
+}
+
+/* =========================
+   RESPONSIVO 
+========================= */
+
+@media (max-width: 768px) {
+
+    /* esconde só os links, o carrinho continua visível */
+    .nav-link,
+    .header-button {
+        display: none;
+    }
+
+    .header-content {
+        padding: 10px 16px;
+    }
+
+    .logo-symbol {
+        width: 48px;
+    }
+
+    .logo-text {
+        font-size: 14px;
+    }
+
+    
+    .cart-sidebar {
+        width: 100%;
+        max-width: 360px;
+    }
+
+    .hero-content {
+    flex-direction: column;
+    text-align: center;
+    gap: 16px;
+    }
+
+    .hero-image img {
+        max-width: 220px;
+    }
+
+    .hero-text h1 {
+        font-size: 26px;
+    }
+
+    .hero-text p {
+        font-size: 16px;
+        margin: 12px auto 0;
+    }
+
+    .hero-buttons {
+        flex-direction: column;
+        margin-top: 20px;
+    }
+
+    .section-title h2,
+    .title-mecanicas,
+    .title-preparacaoDoAr {
+        font-size: 26px;
+    }
+
+    .products-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 12px;
+        margin-top: 24px;
+    }
+
+    .product-title {
+        font-size: 15px;
+        height: auto;
+        min-height: 36px;
+    }
+
+    .product-description {
+        font-size: 13px;
+        min-height: 0;
+    }
+
+    .product-content {
+        padding: 10px;
+    }
+
+    .product-image-btn {
+        height: 180px;
+    }
+
+    .home-card .product-image-link {
+        height: 180px;
+    }
+
+    .product-card-horizontal {
+    flex-direction: column;
+    }
+
+    .product-card-horizontal .product-image-btn,
+    #cilindros-mini-iso .product-card-horizontal .product-image-btn {
+        width: 100%;
+        min-width: 0;
+        height: 160px;
+    }
+
+    .product-card-horizontal .product-title {
+        font-size: 15px;
+    }
+
+    #cilindros-mini-iso .product-card-horizontal .product-description {
+        font-size: 13px;
+    }
+
+    #cilindros-iso,
+    #cilindros-mini-iso {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .contact-section {
+    padding: 40px 16px;
+    }
+
+    .contact-wrapper {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .contact-card,
+    .endereço-card {
+        flex: none;
+        width: 100%;
+        max-width: 420px;
+        padding: 20px;
+    }
+
+    .endereço-card iframe {
+        height: 250px;
+    }
+
+    .category-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    }
+
+    .category-title {
+        font-size: 30px;
+    }
+
+    .modal-prev {
+        left: 8px;
+    }
+
+    .modal-next {
+        right: 8px;
+    }
+
+    .modal-image {
+        max-width: 90vw;
+    }
 }
 
 

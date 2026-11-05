@@ -68,7 +68,7 @@ const produtos = [
 
   {
     nome: "Conexões Em Latão",
-    imagem: "imagens/latao/latao.jpeg",
+    imagem: "imagens/latao/latao.webp",
     alt: "Conexões em latão pneumáticas industriais",
     descricao: "Resistente à corrosão para aplicações pneumáticas e industriais.",
     link: "produtos/latao/latao.html"
@@ -76,10 +76,18 @@ const produtos = [
 
   {
     nome: "Tubos em Poliuretano (PU)",
-    imagem: "imagens/tubos/tubos.jpeg",
+    imagem: "imagens/tubos/tubos.webp",
     alt: "Tubos pneumáticos em poliuretano PU",
     descricao: "Tubos flexíveis e resistentes, ideais para condução de ar comprimido em sistemas pneumáticos.",
     link: "produtos/tubos/tubos.html"
+  },
+
+  {
+    nome: "Kits de Reparo",
+    imagem: "imagens/kits-reparo/reparo-belton-1.webp",
+    alt: "Kits reparo de Cilindros ISO",
+    descricao: "Conjunto de vedações específicas para cada modelo de cilindro, utilizado para efetuar a troca das vedações desgastadas",
+    link: "produtos/kit-reparo/reparo.html"
   },
 ];
 
